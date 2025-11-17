@@ -12,8 +12,13 @@ body{
   align-items: center;
   background:linear-gradient(90deg,rgba(7, 36, 0, 1) 0%, rgba(9, 121, 54, 1) 35%, rgba(0, 255, 68, 1) 100%);
 }
+.page-actions-cont>.home{
+  padding: 8px;
+  border-radius: 3px;
+  color: black;
+  background-color: lightgray;
+}
 .page-action{
-
   margin: 0.5rem;
   color: white;
 }
@@ -171,4 +176,5 @@ body{
 }
 .color-prop{
   position: relative;
+
 }
